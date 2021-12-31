@@ -11,7 +11,7 @@ In this project, I am describing a business-related data problem that an organiz
 
 This project is used by the following:
 
-- Data 1201-02 - DATA VISUALIZATIONS & LEADERSHIP
+- Data 1201-02 - DATA COLLECTION
 - Data 1201-02 - Assessment 1
 
 
